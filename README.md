@@ -1,6 +1,6 @@
 Character Introductions
 
 Bruce speaking. Personally, I love 
-!(bragat.png)
+!/(bragat.png)
 
 # This is our group blahblah blaah
