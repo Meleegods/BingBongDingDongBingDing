@@ -12,3 +12,7 @@ Helo my name is Michael I like reading manga and manhwa. I also like drawing and
 
 !(/assets/images/Bicbic.jpg)
 
+
+Greetings, humans. My name is Joaquin, but you may call me Jose. A mutate member of the pan troglodytes, I enjoy many luxuries of higher-intelligent lifeforms such as the bulk of human civilization. I write sporadically, play videogames extensively, and indulge in tabletop roleplaying games frequently. Tall and clumsy, I am quite friendly. Unfortunately, my humor is crude and unrestrained, and I express my apologies for the fact.
+
+![f o o t](https://user-images.githubusercontent.com/126568960/232696338-4746c9e0-9be3-4c46-ad43-fca168c70cb9.png)
