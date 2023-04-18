@@ -1,7 +1,7 @@
 # This is our group blahblah blaah
 Character Introductions
 
-!(/assets/images/bragat.png)
+![bragat](https://user-images.githubusercontent.com/126583620/232692234-f68644ad-f91d-40ef-87cf-44e401a7055c.jpg)
 
 Bruce speaking. I consider myself to be a very peculiar fellow, indeed indeed.
 As for my interests, I love playing games, listening to music and drawing.
