@@ -10,7 +10,8 @@ You can talk to me about things and I'll try my best to relate.
 
 Helo my name is Michael I like reading manga and manhwa. I also like drawing and baking. My friends call me an emo. I am very socially anxious please talk to me 
 
-!(/assets/images/Bicbic.jpg)
+![Bicbic](https://user-images.githubusercontent.com/126549139/232696577-e11a706f-0efa-4d84-88c3-f6a36f9cc1f0.jpg)
+
 
 
 Greetings, humans. My name is Joaquin, but you may call me Jose. A mutate member of the pan troglodytes, I enjoy many luxuries of higher-intelligent lifeforms such as the bulk of human civilization. I write sporadically, play videogames extensively, and indulge in tabletop roleplaying games frequently. Tall and clumsy, I am quite friendly. Unfortunately, my humor is crude and unrestrained, and I express my apologies for the fact.
