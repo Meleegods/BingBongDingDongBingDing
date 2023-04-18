@@ -1,6 +1,6 @@
 Character Introductions
 
 Bruce speaking. I 
-!(/bragat.png)
+!(/assets/images/bragat.png)
 
 # This is our group blahblah blaah
